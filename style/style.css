@@ -1,0 +1,104 @@
+.info_top {
+    height: 35px;
+    text-align: center;
+    outline: 1px solid red;
+}
+
+.menu {
+    height: 140px;
+    margin: 0 auto;
+    width: 480px;
+}
+
+.socials a {
+    display: block;
+}
+
+.content .button {
+    position: absolute;
+    top: 200px;
+    left: 46%;
+    font-size: 2em;
+}
+
+.menu nav a {
+    color: red;
+    font-size: 1.4em;
+    font-weight: bold;
+}
+
+.menu nav ul li {
+    display: inline-block;
+    margin-right: 10px;
+}
+
+.type_of_pizza {
+    width: 1030px;
+    margin: 0 auto;
+    height: 500px;
+}
+
+.type_of_pizza ul li {
+    display: inline-block;
+    width: 340px;
+    height: 370px;
+    background-color: lightgrey;
+    margin-top: 5px;
+}
+
+.type_of_pizza ul li a {
+    text-align: center;
+    display: block;
+}
+
+.block {
+    width: 200px;
+    display: inline-block;
+    height: 140px;
+    vertical-align: top;
+    margin-top: 35px;
+    margin-right: 55px;
+}
+
+.block p {
+    height: 100%;
+    margin: 0;
+}
+
+.block span p {
+    margin-top: -1em;
+}
+
+.type_of_pizza ul li>p {
+   text-align: center;
+}
+
+.user {
+    text-align: center;
+    margin-top: 2em;
+    font-size: 1.4em;
+}
+
+form {
+    text-align: center;
+    margin-top: 35px;
+}
+
+form span {
+    display: block;
+    padding-bottom: 10px;
+}
+
+.block a {
+    display: block;
+}
+
+.delivery_info {
+    margin-left: 32%;
+}
+
+footer {
+    position: absolute;
+    bottom: 0;
+    left: 45%;
+}
